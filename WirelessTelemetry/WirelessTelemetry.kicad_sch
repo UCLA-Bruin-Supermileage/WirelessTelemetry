@@ -2,9 +2,55 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 4ff20a1b-ad4b-4d84-b866-365abf1b776e)
+	(uuid "4ff20a1b-ad4b-4d84-b866-365abf1b776e")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 17.78 17.78)
+		(size 82.55 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6e16643a-a7d2-4baa-ac69-b686a17d2be0")
+		(property "Sheetname" "Power"
+			(at 17.78 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 17.78 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WirelessTelemetry"
+				(path "/4ff20a1b-ad4b-4d84-b866-365abf1b776e"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
