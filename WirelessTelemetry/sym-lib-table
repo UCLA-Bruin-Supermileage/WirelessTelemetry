@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "LM51770DCPR") (type "KiCad") (uri "${KIPRJMOD}/LM51770DCPR/LM51770DCPR/LM51770DCPR.kicad_sym") (options "") (descr ""))
+)
